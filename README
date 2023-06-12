@@ -1,0 +1,2 @@
+Neopixel on data port A1, power through vout and ground through gnd
+Shaking should make gradient partially white/lighter, button1 to start
